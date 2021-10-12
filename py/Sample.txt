@@ -1,0 +1,7 @@
+# Company
+Fred's Appliances
+# Coverage (dental/wdi)
+dental wdi
+# NAME      SEX AGE COVERAGE(EDL)
+Jason        M   53 D
+Kimberly     F   53 L
